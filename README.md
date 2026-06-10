@@ -1,7 +1,7 @@
 # Práctica Semana 10
 Se presenta el desarrollo de los puntos: 
-    - 3. Ciclo HTTP: Documentar flujo: Cliente → DNS → TCP/IP → HTTP Request → Server → Backend → Response → Render.
-    - 5. Comparativa Técnica: Matriz PHP vs JSP (ciclo de vida, rendimiento, despliegue, gestión de estado, madurez ecosistema).
+- **Ciclo HTTP:** Documentar flujo: Cliente → DNS → TCP/IP → HTTP Request → Server → Backend → Response → Render.
+- **Comparativa** Técnica: Matriz PHP vs JSP (ciclo de vida, rendimiento, despliegue, gestión de estado, madurez ecosistema).
 
 ## Integrantes:
 - Alarcón Mendoza Estiven Rodrigo
