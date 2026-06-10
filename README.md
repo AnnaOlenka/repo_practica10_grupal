@@ -1,5 +1,13 @@
 # Práctica Semana 10
 
+# Integrantes
+- Alarcón Mendoza Estiven Rodrigo 
+- Calderón Leiva Anna Olenka 
+- Cruz Cruz Alexander Jhon 
+- Espiritu Diaz Olayne Guadalupe Maria Isabel 
+- Llanos Loznao Ricardo Alexander 
+- Martínez Casas Cristhian Emilio 
+
 ## Ciclo HTTP: Flujo Cliente → Servidor → Backend → Respuesta
 
 ```
