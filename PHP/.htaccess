@@ -1,0 +1,2 @@
+ErrorDocument 404 /PHP/error404.php
+ErrorDocument 500 /PHP/error500.php
